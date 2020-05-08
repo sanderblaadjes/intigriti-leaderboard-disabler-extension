@@ -1,0 +1,27 @@
+.user-ranking {
+    display: none;
+}
+
+.user-stats-container > div:not(:first-child) {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.dropdown-content > .links > div:nth-child(3) {
+    display: none;
+}
+
+.reputation {
+    display: none;
+}
+
+.leaderboard-container {
+    display: none;
+}
+
+.topline-stats {
+    display: none !important;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Intigirti leaderboard disabler",
+  "version": "1.0",
+  "description": "Hides the intigriti leaderboards!",
+  "manifest_version": 2,
+  "content_scripts": [ {
+    "css": ["annotations.css"],
+    "run_at": "document_start",
+    "matches": ["https://www.intigriti.com/*"]
+  } ],
+  "permissions": [
+    "storage"
+  ]
+}
