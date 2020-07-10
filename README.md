@@ -1,4 +1,4 @@
-# Intigiriti leaderboard hider
+# Intigriti leaderboard hider
 
 I found myself in the position where I was looking at the intigriti leaderboards non-stop. This had a very negative impact on my mental health so I decided to do something about it. I made this chrome extension to hide all references to reputation points or rankings on intigriti.
 
