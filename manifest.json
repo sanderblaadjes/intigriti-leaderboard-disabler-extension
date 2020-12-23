@@ -6,7 +6,7 @@
   "content_scripts": [ {
     "css": ["annotations.css"],
     "run_at": "document_start",
-    "matches": ["https://www.intigriti.com/*"]
+    "matches": ["https://www.intigriti.com/*","https://app.intigriti.com/*"]
   } ],
   "permissions": [
     "storage"
